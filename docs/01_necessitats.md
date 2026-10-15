@@ -1,3 +1,7 @@
+
+https://campus.proven.cat/pluginfile.php/718635/mod_resource/content/7/Actividad%20pt1.2%20Identificaci%C3%B3%20de%20reptes%20i%20necessitats%20de%20l%E2%80%99entorn.pdf
+
+
 El fitxer ha de contenir:
 1. Noms dels membres participants i els seus rols per elaborar la tasca.
 2. L’entorn analitzat.
