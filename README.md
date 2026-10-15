@@ -1,8 +1,9 @@
 # MaCat
 
 ## Membres
-- Matheus Abraham Carchi Angumba ( Coordinació / Documentació )
-- Mauricio Alejandro Gutierrez Saldivar ( Recerca / Gestió tècnica i audiovisual )
+- Matheus Abraham Carchi Angumba ( Coordinació / Gestió tècnica i audiovisual )
+- Mauricio Alejandro Gutierrez Saldivar ( Recerca )
+- Mauricio Agustín ( Documentació )
 
 ## Descripció
 Formem un equip destinat a projectes de Sostenibilitat aplicades als Sistemes Productius. El nostre objetiu es investigar e identificar reptes ambientals i socials al nostre entorn per tal de proposar posibles solucions.
