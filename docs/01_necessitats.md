@@ -13,8 +13,9 @@ El fitxer ha de contenir:
 
 ## Membres de l'equip
 
-Matheus Carchi - Encarregat de coordinar l'equip i preparar el document Markdown, a més de participar amb idees.
-
+- Matheus Carchi - Encarregat de coordinar l'equip i preparar el document Markdown, a més de participar amb idees.
+- 
+- 
 
 
 
