@@ -9,19 +9,20 @@ El fitxer ha de contenir:
 4. La reflexió final de l’equip.
 5. Les fonts d’informació consultades.
 
+# Activitat 1.2.> Identificació de reptes i necessitats de l'entorn
 
-# 1. Membres de l'equip
+## Membres de l'equip
 
 Matheus Carchi - Encarregat de coordinar l'equip i preparar el document Markdown, a més de participar amb idees.
 
 
 
 
-# 2. Entorn a estudiar
+## Entorn a estudiar
 
 
 
-# 3. Taula de necessitats
+## Taula de necessitats
 
 https://tableconvert.com/es/markdown-generator
 
@@ -36,7 +37,7 @@ https://tableconvert.com/es/markdown-generator
 
 
 
-# 4. Reflexió
+## Reflexió
 
 
 Després de completar la taula, responeu conjuntament les preguntes següents:
@@ -52,4 +53,4 @@ necessitats?
 
 
 
-# 5. Fonts
+## Fonts
